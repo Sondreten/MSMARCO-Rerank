@@ -30,6 +30,11 @@ msmarco-docdev-queries.tsv
 msmarco-docdev-qrels.tsv  
 msmarco-docdev-top100.tsv  
 
+## Environment
+
+Your environment is expected to be an Anaconda base environment with Python version 3.6+.
+You must have elasticsearch library installed with version 7.9.1+ and have a local instance of it running on your machine.
+
 ## Paper
 
 To contemplate the code, we have written a paper regarding our implementation of our re-ranking models. What approaches we have chosen and why we did certain things.
