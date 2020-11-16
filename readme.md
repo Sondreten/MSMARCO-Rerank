@@ -24,7 +24,11 @@ queries.doctrain.tsv
 queries.docdev.tsv  
 msmarco-doctrain-qrels.tsv  
 msmarco-doctrain-top100.tsv  
+msmarco-doctrain-queries.tsv
 msmarco-docs.tsv  
+msmarco-docdev-queries.tsv
+msmarco-docdev-qrels.tsv
+msmarco-docdev-top100.tsv
 
 ## Paper
 
