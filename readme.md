@@ -20,11 +20,11 @@ Before you run the code, you have to set 'index = False' to 'index = True' in th
 
 Also, you need to be sure you have downloaded all the dataset files from MS MARCO, specifically:
 
-queries.doctrain.tsv
-queries.docdev.tsv
-msmarco-doctrain-qrels.tsv
-msmarco-doctrain-top100.tsv
-msmarco-docs.tsv
+queries.doctrain.tsv  
+queries.docdev.tsv  
+msmarco-doctrain-qrels.tsv  
+msmarco-doctrain-top100.tsv  
+msmarco-docs.tsv  
 
 ## Paper
 
