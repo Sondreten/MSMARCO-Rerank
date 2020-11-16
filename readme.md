@@ -3,6 +3,8 @@
 Here you will find our implementation for the MS MARCO re-ranking 2020 task. This project was part of our evaluation and project work in DAT640-1 20H Information Retrieval and Text Mining. This implementation are using a feature based traditional machine learning approach to this problem.
 This was a group project, created by Sondre Tennø, Einar Langholm, Anthony Ibeme.
 
+Github link: https://github.com/Sondreten/MSMARCO-Rerank.git
+
 ## Dataset
 
 To run this code, you will need to download all neccessary datasets from the official MS MARCO website: https://microsoft.github.io/msmarco/
